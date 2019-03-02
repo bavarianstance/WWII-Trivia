@@ -1,0 +1,31 @@
+.container {
+ 
+}
+
+body {
+	background-image:url("../images/NormandySupply_edit.jpg");
+}
+
+.userchoice {
+	cursor:pointer;
+}
+
+img {
+	max-width:500px;
+}
+
+h1 {
+	font-size:68px;
+	font-family: 'Abril Fatface', cursive;
+    font-weight:bolder;
+}
+
+.navbar-brand{
+	font-size:30px;
+	font-family: 'Abril Fatface', cursive;
+    font-weight:bolder;
+}
+
+#answers {
+	font-size:28px;
+}
