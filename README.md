@@ -10,7 +10,7 @@
 ## Comments
 * Utilized function to randomize questionsArray 
 * Includes counters for correct, wrong and timeout 
-* dynamic generation via jQuery and HTML dom manipulation
+* dynamic generation via jQuery and HTML DOM manipulation
 
 ## Screenshot
 ![screenshot](./assets/images/screenshot.png "Screenshot")
