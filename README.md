@@ -1,4 +1,4 @@
-# HW5 - WWII Trivia Game
+# WWII Trivia Game
 
 ## Technologies Used
 * HTML
